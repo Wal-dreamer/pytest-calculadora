@@ -1,7 +1,7 @@
 # Guia de Configuração do Projeto TDD
 
 ## 1. Abrir a pasta no VS Code
-Abra o VS Code e vá em `File > Open Folder...` e selecione a pasta `pytest_calculadora`.
+Abra o VS Code e vá em `File > Open Folder...` e selecione a pasta `pytest-calculadora`.
 
 ## 2. Criar o Ambiente Virtual (VENV)
 O ambiente virtual serve para isolar as bibliotecas do seu projeto. No terminal do VS Code, digite:
