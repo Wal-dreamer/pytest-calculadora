@@ -26,8 +26,6 @@ pip install pytest
 ```
 
 ## 5. Como ver os ciclos RED, GREEN e REFACTOR
-Para ver os três ciclos acontecendo no seu terminal (exatamente como o professor pediu), eu criei um script de demonstração. 
-
 No terminal do VS Code, com o ambiente ativado, digite:
 ```bash
 python demonstrar_tdd.py
