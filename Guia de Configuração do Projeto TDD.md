@@ -1,7 +1,5 @@
 # Guia de Configuração do Projeto TDD
 
-Como você mencionou que não tem muita experiência com programação, aqui está o passo a passo para configurar seu ambiente no VS Code:
-
 ## 1. Abrir a pasta no VS Code
 Abra o VS Code e vá em `File > Open Folder...` e selecione a pasta `tdd_project`.
 
